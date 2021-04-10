@@ -23,3 +23,8 @@ if l2==l3:
     print('Liste',list2,'i',list3,'su kruzno identicne')
 else:
     print('Liste',list2,'i',list3,'nisu kruzno identicne')
+
+
+# --------------------------------------
+# Ovo nije dobro :) Nisi ovde lepo razumeo sta treba da se uradi. Nije ovo tako lako ako sam ja ovo dobro razumeo
+# --------------------------------------

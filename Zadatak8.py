@@ -11,5 +11,7 @@ if len(lista) == 0:
 else:
     print('Lista',lista,'nije prazna')    
 
-
+# ---------------------------------
+# No comment. A to je dobro!!!!!! :)
+# ----------------------------------
         

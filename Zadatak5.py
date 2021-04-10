@@ -11,3 +11,9 @@ for j in lista:
         n += 1
         print (j)
 print(n, 'elemenata')
+
+# ----------------------------------
+# he he, bas se ti siris sa ovim -1.
+#
+# Ovo je dobro sve, ovako treba da izgleda python program, kratko i jasno. Samo imas ovaj print(j), mislim da ti to ne treba
+# ---------------------------------

@@ -9,5 +9,9 @@ print ('Lista',lista)
 print('Prvih 5 elemenata',lista[:5])
 print('Poslednjih 5 elemenata', lista[-5:])
 
+# --------------------------------------
+# Opa Boki, poceo si da sabijas ove rangove :)
+# --------------------------------------
+
 
 

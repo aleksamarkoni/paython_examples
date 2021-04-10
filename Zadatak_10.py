@@ -14,3 +14,7 @@ if k==0:
     print('Lista',lista,'ne sadrzi reci duze od',n,'slova')
 else:
     print ('Reci iz liste',lista,'duze od',n,'slova su:',reci)
+
+# ------------------------------------------
+# Nice sto si iskoristio set a ne listu za ove nove reci
+# ------------------------------------------

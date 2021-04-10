@@ -1,0 +1,6 @@
+Kako prekinuti program i sta raditi ako je input invalid. Razni zadaci
+da li je bolje koristiti set ili neki in za duple elemente, Zadatak 7
+kloniranje, plitko i duboko kloniranje, Zadatak 9
+Kako prekinuti ugnjezdenu for petlju, Zadatak 11.
+O notacija, i ispratiti link iz Zadatka 11
+Razlika izmedju liste i niza, Zadatak 14

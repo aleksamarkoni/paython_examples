@@ -12,3 +12,17 @@ while j<i:
         break
     else:
         j+=1
+
+
+# -------------------------------------------
+# Pa dobro Boki genije, programeru pocetniku, moj mladi padawanu :)
+#
+# Ako si vec sortirao listu, gde se nalazi drugi element po velicini :) Ili recimo sedmi po velicini?
+#
+# U zavisnosti od toga kako je lista sortirana, ne znam sta je po defaultu, od najmanjeg ili najveceg elementa da li krece
+#  drugi po velicini ce biti na drugom ili pretposlednjem mestu, tako da je dovoljno da napises
+#
+# lista[2] ili lista[-2] i to je to, to je taj element
+# ------------------------------------------
+# Da li bi znao ovo da uradis bez sortiranja.
+# --------------------------------------------

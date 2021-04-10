@@ -8,5 +8,9 @@ for i in range(1,31):
 print ('Lista',lista)
 print('Lista bez prvih 5 elemenata',lista[5:])
 
+# -----------------------------------
+# Najpozeljni srpski zet :)
+# ----------------------------------
+
 
 

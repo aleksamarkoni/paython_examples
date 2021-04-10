@@ -7,3 +7,9 @@ skup_bez_duplikata = set(lista)
 lista_bez_duplikata = list(skup_bez_duplikata)
 
 print('Lista bez duplikata: ',lista_bez_duplikata)
+
+# -------------------------------
+# Pa ovo je isto kao neki prethodni zadatak, a vidis kako si ovde lepo odradio :/
+#
+# Ne znam sada sto, verovatno tamo pre nisi znao ove python ugradjene funckije
+# --------------------------------

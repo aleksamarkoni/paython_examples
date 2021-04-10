@@ -18,6 +18,9 @@ for i in range (broj_elemenata-1):
       
 print ('Najmanji elemenat liste', lista_list,'je', najmanji)
 
+# ----------------------------
+# Isti komentari kao u zadatku 3
+# ------------------------------
 
 
 

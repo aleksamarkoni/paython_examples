@@ -5,3 +5,7 @@ lista_2 = [6,7,8,9,10]
 lista=[]
 lista = lista_1 + lista_2
 print ('Lista',lista_2,'dodata na listu',lista_1,'gradi listu',lista)
+
+# ------------------------------
+# Pa evo, mozda pre nisi znao da moze lista_1 + lista_2, za ove prethodne zadatake.
+# ----------------------------------

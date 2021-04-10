@@ -11,3 +11,10 @@ while i>0:
         break
     else:
         i-=1
+
+
+# --------------------------------------
+# Isto kao u zadatku 27.
+#
+# Ali ovde bi te ja pitao da uradis ovo bez sortiranja
+# -------------------------------------
